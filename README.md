@@ -24,4 +24,4 @@ Developed an interactive Power BI dashboard that enables management to evaluate 
 
 ## Skills Demonstrated
 
-Power BI • DAX • Data Modelling • Business Intelligence • Data Visualisation • Analytical Storytelling
+Power BI • DAX • Data Modelling • Excel • Data Visualisation • Data Storytelling • SAS Viya 
